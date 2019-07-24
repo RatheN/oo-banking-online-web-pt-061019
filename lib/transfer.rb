@@ -8,5 +8,5 @@ class Transfer
     @transfer_amount = transfer_amount
   end
 
-  
+
 end
